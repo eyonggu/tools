@@ -22,3 +22,5 @@
 - **dpdk-devbind.py**: binds NIC device to Linux drivers
 
   Usage: dpdk-devbind.py --help
+
+- **list_sriov-vf.sh**: list VF:s of SR-IOV NIC
